@@ -18,7 +18,7 @@ import javax.servlet.http.HttpSession;
  * Created by geely
  */
 @Controller
-@RequestMapping("/manage/category")
+@RequestMapping("/manage/category/")
 public class CategoryManageController {
 
 
