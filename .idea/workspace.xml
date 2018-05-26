@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd70b03c-3cb2-4f13-8b3a-08ef2b756b35" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mmall.sql" beforeDir="false" afterPath="$PROJECT_DIR$/mmall.sql" afterDir="false" />
-    </list>
+    <list default="true" id="dd70b03c-3cb2-4f13-8b3a-08ef2b756b35" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileServiceImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/FileServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="124">
+              <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,11 +33,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="MultipartFile.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ProductManageController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="129" column="51" lean-forward="true" selection-start-line="129" selection-start-column="51" selection-end-line="129" selection-end-column="51" />
+            <state relative-caret-position="294">
+              <caret line="134" column="26" lean-forward="true" selection-start-line="134" selection-start-column="26" selection-end-line="134" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -63,20 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FTPUtil.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FTPUtil.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-207">
-              <caret line="31" column="22" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CartServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/CartServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1035">
-              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+            <state relative-caret-position="198">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -118,6 +115,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManageController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mmall.properties" />
         <option value="$PROJECT_DIR$/mmall.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/FileServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -367,12 +366,12 @@
       <workItem from="1526290363859" duration="58000" />
       <workItem from="1526290972188" duration="496000" />
       <workItem from="1527223167683" duration="4395000" />
-      <workItem from="1527332995939" duration="3443000" />
+      <workItem from="1527332995939" duration="4970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10394000" />
+    <option name="totallyTimeSpent" value="11921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -390,10 +389,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22442244" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27722773" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -697,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="129" column="51" lean-forward="true" selection-start-line="129" selection-start-column="51" selection-end-line="129" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/IFileService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -711,20 +703,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="294">
+          <caret line="134" column="26" lean-forward="true" selection-start-line="134" selection-start-column="26" selection-end-line="134" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/FileServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="124">
+          <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="48" />
         </state>
       </provider>
     </entry>
