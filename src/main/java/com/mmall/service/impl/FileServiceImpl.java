@@ -36,15 +36,17 @@ public class FileServiceImpl implements IFileService {
         }
         File targetFile = new File(path,uploadFileName);
 
+        logger.info("上传的文件是：{}",targetFile);
 
         try {
             file.transferTo(targetFile);
             //文件已经上传成功了
 
+            logger.info("上传的文件是：{}",targetFile);
 
             FTPUtil.uploadFile(Lists.newArrayList(targetFile));
             //已经上传到ftp服务器上
-
+            logger.info("上传到ftp服务器的结果：{}",FTPUtil.uploadFile(Lists.newArrayList(targetFile)));
             targetFile.delete();
         } catch (IOException e) {
             logger.error("上传文件异常",e);
